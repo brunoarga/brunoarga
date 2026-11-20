@@ -1,44 +1,25 @@
-# Bruno Argañaraz
+<div align="center">
 
-**Full-Stack Software Developer · QA Automation · DevOps & CI/CD**  
-San Salvador de Jujuy, Argentina
+  <!-- Banner estilo terminal animada -->
+  <a href="https://github.com/brunoarga">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=A855F7¢er=true&vCenter=true&multiline=true&repeat=true&width=750&height=110&lines=PLAYER+1%3A+BRUNO+ARGA%C3%91ARAZ;Full-Stack+Developer+%7C+QA+Automation+%7C+DevOps" alt="Typing SVG" />
+  </a>
 
-Desarrollo aplicaciones web escalables, APIs RESTful y flujos automatizados de pruebas y despliegue. Enfocado en arquitectura limpia, trazabilidad de datos, contenerización y entregas continuas.
+  <p>
+    <img src="https://img.shields.io/badge/CLASS-FULL--STACK_ENGINEER-6D28D9?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/SPECIALTY-QA_%26_CI%2FCD-1F2937?style=for-the-badge&logo=githubactions&logoColor=A855F7" />
+    <img src="https://img.shields.io/badge/SERVER-JUJUY%2C_ARG-111827?style=for-the-badge&logo=linux&logoColor=white" />
+  </p>
 
-
-
-### Stack Tecnológico
-
-* **Backend & APIs:** Java 17 (Spring Boot) · Python (FastAPI) · PHP (Laravel)
-* **Frontend:** React · Next.js · TypeScript · Tailwind CSS
-* **Bases de Datos & Migraciones:** MySQL · Flyway · SQL
-* **QA & Automatización:** Pytest · JUnit 5 · Cypress · Selenium · JMeter
-* **DevOps, CI/CD & Entornos:** Docker · Docker Compose · GitHub Actions · Jenkins · Git · Linux / WSL 2
+</div>
 
 ---
 
-### Proyectos Destacados
+### `> PLAYER_BIO.sh`
 
-* **[RASM NexiaLink](https://github.com/brunoarga/Rasm)**  
-  Plataforma full-stack para triaje, derivación y seguimiento clínico en salud mental. Construida con **Java 17 / Spring Boot**, **React / Tailwind CSS**, **MySQL**, migraciones versionadas con **Flyway** y despliegue contenerizado con **Docker Compose** y workflows de CI en **GitHub Actions**.
-
-* **[SIRIT — Relevamiento de Infraestructura IT](https://github.com/brunoarga/siritrelevamiento)**  
-  Sistema de inventario y auditoría de equipamiento tecnológico en edificios públicos. Desarrollado con **Python / FastAPI**, **Next.js / TypeScript** y **MySQL**, con suites de pruebas automatizadas en **Pytest** y flujos de validación continua.
-
-* **[HyS Control](https://github.com/brunoarga/HyS-control)**  
-  Plataforma de gestión e inspecciones para profesionales de Higiene y Seguridad en el Trabajo, desarrollada con **PHP / Laravel** y **MySQL**, orientada a la estandarización de relevamientos técnicos en campo.
-
----
-
-### Qué vas a encontrar en mis repositorios
-
-* **Arquitectura y despliegue:** Proyectos estructurados en capas con entornos reproducibles mediante `Dockerfile` y `docker-compose.yml`.
-* **Calidad de software:** Suites de pruebas unitarias, de integración y end-to-end (`Pytest`, `JUnit 5`, `Cypress`, `Selenium`).
-* **Integración continua:** Pipelines configurados en `GitHub Actions` y `Jenkinsfile` para validación automática antes de producción.
-
----
-
-### Contacto y Enlaces
-
-* **GitHub:** [github.com/brunoarga](https://github.com/brunoarga)
-* **Email:** brunoarganaraz1@gmail.com
+```yaml
+nombre: "Bruno Argañaraz"
+rol: "Full-Stack Software Developer & QA Automation Engineer"
+ubicacion: "San Salvador de Jujuy, Argentina"
+mision_actual: "Construyendo sistemas escalables, APIs robustas y pipelines automatizados"
+equipo_principal: ["Java / Spring Boot", "Python / FastAPI", "PHP / Laravel", "React / Next.js", "MySQL", "Docker"]
