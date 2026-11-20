@@ -62,5 +62,4 @@
 ## Contacto
 
 * **GitHub:** [github.com/brunoarga](https://github.com/brunoarga)
-* **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
-* **Email:** tu-correo@ejemplo.com
+* **Email:** brunoarganaraz1@gmail.com  
