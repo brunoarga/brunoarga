@@ -1,1 +1,10 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="58" viewBox="0 0 840 58">
+  <rect x="2" y="4" width="836" height="50" rx="8" fill="#090514" stroke="#F59E0B" stroke-width="2" />
+  <text x="24" y="35" font-family="Impact, Arial Black, sans-serif" font-size="24" fill="#FBBF24" letter-spacing="2">
+    MISSION PASSED!
+    <animate attributeName="opacity" values="1;0.75;1" dur="2s" repeatCount="indefinite" />
+  </text>
+  <text x="235" y="34" font-family="monospace" font-size="14" font-weight="700" fill="#34D399" letter-spacing="1">
+    RESPECT +99 // PRODUCTION DEPLOYMENTS & SYSTEMS
+  </text>
+</svg>
