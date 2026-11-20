@@ -51,7 +51,7 @@
   </g>
 
   <!-- Título principal estilo terminal gamer -->
-  <text x="26" y="69" font-family="Consolas, &#39;Courier New&#39;, monospace" font-size="18.5" font-weight="700" fill="#F0F6FC">
+  <text x="26" y="69" font-family="Consolas, monospace" font-size="18.5" font-weight="700" fill="#F0F6FC">
     <tspan fill="#A855F7">>_ </tspan>
     <tspan>Full-Stack Software Developer</tspan>
     <tspan fill="#10B981"> · </tspan>
