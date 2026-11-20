@@ -1,5 +1,5 @@
 ![Bruno Argañaraz - GTA VI Dev Edition](./assets/gta6-cover.svg?v=2)
-![Full-Stack Software Developer · QA Automation · DevOps & CI/CD](./assets/role-banner.svg?v=2)
+
 
 > **San Salvador de Jujuy, Argentina** — Desarrollo aplicaciones web full-stack, APIs RESTful, automatización de pruebas y entornos contenerizados con enfoque en arquitectura limpia, trazabilidad y despliegue continuo.
 
