@@ -51,7 +51,7 @@
 
 ---
 
-## Proyectos Destacados
+![Mission Passed - Proyectos Destacados](./assets/mission-passed.svg)
 
 * **[RASM NexiaLink](https://github.com/brunoarga/Rasm)** — Plataforma full-stack para triaje, derivación y seguimiento clínico en salud mental con **Java 17 / Spring Boot**, **React / Tailwind CSS**, **MySQL**, migraciones **Flyway**, **Docker Compose** y **GitHub Actions**.
 * **[SIRIT — Relevamiento de Infraestructura IT](https://github.com/brunoarga/siritrelevamiento)** — Sistema de inventario y auditoría tecnológica en edificios públicos con **Python / FastAPI**, **Next.js / TypeScript**, **MySQL** y pruebas con **Pytest**.
