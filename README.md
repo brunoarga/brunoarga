@@ -1,5 +1,5 @@
 # BRUNO ARGAÑARAZ
-### Full-Stack Software Developer · QA Automation · DevOps & CI/CD
+<img src="data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='780' height='44' viewBox='0 0 780 44'%3E%3Cstyle%3E.txt%7Bfont-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;font-size:19px;font-weight:700;fill:%231f2328%7D.accent%7Bfill:%237c3aed;animation:pulse 2.4s ease-in-out infinite%7D.cursor%7Bfill:%237c3aed;animation:blink 1s step-end infinite%7D@keyframes blink%7B0%25,100%25%7Bopacity:1%7D50%25%7Bopacity:0%7D%7D@keyframes pulse%7B0%25,100%25%7Bopacity:1%7D50%25%7Bopacity:0.55%7D%7D%3C/style%3E%3Ctext x='0' y='28' class='txt'%3E%3Ctspan%3EFull-Stack Software Developer%3C/tspan%3E%3Ctspan class='accent'%3E · QA Automation · DevOps %26amp%3B CI/CD%3C/tspan%3E%3Ctspan class='cursor'%3E _%3C/tspan%3E%3C/text%3E%3C/svg%3E" alt="Full-Stack Software Developer · QA Automation · DevOps & CI/CD" />
 
 > **San Salvador de Jujuy, Argentina** — Desarrollo aplicaciones web full-stack, APIs RESTful, automatización de pruebas y entornos contenerizados con enfoque en arquitectura limpia, trazabilidad y despliegue continuo.
 
